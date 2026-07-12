@@ -4,3 +4,4 @@
 - Monitor
 - Keyboard
 - Mouse
+- Printer
